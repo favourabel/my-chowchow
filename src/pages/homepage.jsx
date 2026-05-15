@@ -75,7 +75,7 @@ import Footer from "../component/Footer";
               Do you own a restaurant, store,<br />
               or pharmacy? Join our network to reach new<br />
               customers and grow your business with<br />
-              ease.
+              ease with.
             </p>
           </div>
 
